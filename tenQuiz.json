@@ -1,0 +1,82 @@
+{
+    "1": {
+        "question": "Who was the first president of the United States?", "answer":"A", "option": {
+            "A": "George Washington",
+            "B": "George W. Bush",
+            "C": "Cristiono Ronaldo",
+            "D": "Messi"
+        }
+    },
+    "2": {
+        "question": "Where is Taj Mahal?", "answer":"C", "option": {
+            "A": "Brazil",
+            "B": "Malaysia",
+            "C": "India",
+            "D": "Spain"
+        }
+    },
+    "3": {
+        "question": "Who painted Mona Lisa?", "answer":"D", "option": {
+            "A": "Jennie",
+            "B": "Coolio",
+            "C": "Cristiono Ronaldo",
+            "D": "Leonardo da Vinci "
+        }
+    },
+    "4": {
+        "question": "Name the biggest animal", "answer":"B", "option": {
+            "A": "Elephant",
+            "B": "Whale",
+            "C": "Cat",
+            "D": "Buffalo"
+        }
+    },
+    "5": {
+        "question": "Which is the biggest planet in the Solar System?", "answer":"A", "option": {
+            "A": "Jupiter",
+            "B": "Pluto",
+            "C": "Earth",
+            "D": "Mars"
+        }
+    },
+    "6": {
+        "question": "How many legs does a spider have?", "answer":"D", "option": {
+            "A": "6",
+            "B": "1",
+            "C": "7",
+            "D": "8"
+        }
+    },
+    "7": {
+        "question": "How many days in week", "answer":"C", "option": {
+            "A": "6",
+            "B": "5",
+            "C": "7",
+            "D": "8"
+        }
+    },
+    "8": {
+        "question": "How many players are there in a football team?", "answer":"A", "option": {
+            "A": "4",
+            "B": "2",
+            "C": "11",
+            "D": "6"
+        }
+    },
+    "9": {
+        "question": "Who invent light bulb?", "answer":"A", "option": {
+            "A": "Thomas Edison",
+            "B": "Elon Musk",
+            "C": "JJ Okacha",
+            "D": "Albert Eistain"
+        }
+    },
+    "10": {
+        "question": "Where was the first Atomic bomb dropped?", "answer":"D", "option": {
+            "A": "Kuala Lumpur, Malaysia",
+            "B": "Hong Kong, China",
+            "C": "Seoul, Korea",
+            "D": "Hiroshima, Japan"
+        }
+    }
+}
